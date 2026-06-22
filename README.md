@@ -4,6 +4,8 @@ A Streamlit web app that lets you chat with any YouTube video. Paste a video URL
 
 No manual transcript upload needed — just drop a link and start asking questions.
 
+![YouTube RAG Chatbot Dashboard](web_gui.png)
+
 ## ✨ Features
 
 - **Direct YouTube extraction** — pulls transcripts automatically using `yt-dlp`, no manual uploads required
