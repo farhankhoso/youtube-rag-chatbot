@@ -84,7 +84,8 @@ youtube-rag-chatbot/
 ```
 
 ## ☁️ Deployment (Streamlit Community Cloud)
-https://youtube-rag-01.streamlit.app/
+
+🔗 **Live Demo:** [youtube-rag-01.streamlit.app](https://youtube-rag-01.streamlit.app/)
 
 - Only works with YouTube videos that have available captions/subtitles
 - Transcript quality depends on auto-generated or uploaded captions
