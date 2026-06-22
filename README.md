@@ -3,7 +3,7 @@
 A Streamlit web app that lets you chat with any YouTube video. Paste a video URL, and the app automatically extracts the transcript, builds a retrieval-augmented generation (RAG) pipeline, and lets you ask questions about the video content — with fast, accurate answers powered by Groq's `llama-3.3-70b-versatile` model.
 
 No manual transcript upload needed — just drop a link and start asking questions.
-🔗 **Live Demo:** [youtube-rag-01.streamlit.app](https://youtube-rag-01.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://youtube-rag-01.streamlit.app/)
 
 ![YouTube RAG Chatbot Dashboard](web_gui.png)
 
